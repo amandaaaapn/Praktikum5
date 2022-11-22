@@ -29,8 +29,8 @@ Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 ![Screenshot (87)](https://user-images.githubusercontent.com/115678845/203054355-253b2f1d-4e1e-4e27-9f7d-2317f266c8ca.png)
 
         # Latihan
-        print("Nama : Syifa Aurellia Rahma")
-        print("NIM  : 312210009")
+        print("Nama : Amanda Puspa Negara")
+        print("NIM  : 312210129")
 
         print("Membuat List sebanyak 5 elemen dengan nilai bebas")
         # akses list
